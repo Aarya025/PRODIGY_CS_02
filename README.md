@@ -67,18 +67,6 @@ Disclaimer
 This tool is intended for educational purposes and should be used ethically. Ensure that you have the right to encrypt and decrypt the images you are working with. Unauthorized use of encryption tools may lead to legal consequences.
 
 
-### Instructions to Create the README.md File:
-
-1. **Create a README.md File**:
-   In your terminal, navigate to your project directory and create a new `README.md` file:
-  
-   touch README.md
-Edit the README.md File: Open the README.md file in a text editor and copy the above content into it. Modify any sections as needed to fit your project specifics.
-
-Save and Commit the Changes: After editing the file, save it. Then, use the following commands to add and commit it to your Git repository:
-
-git add README.md
-git commit -m "Add README file for Image Encryption Tool Using Pixel Manipulation"
 Push to GitHub: Finally, push the changes to your GitHub repository:
 
 git push origin main
